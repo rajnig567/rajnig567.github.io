@@ -12,3 +12,4 @@ xad.com,589, RESELLER, 81cbf0a75a5e0e9a
 inmobi.com, a5e661acdc384e91a79a58eb3418e99f, RESELLER, 83e75a7ae333ca9d
 sonobi.com, 71169bd4a5, RESELLER, d1a215d9eb5aee9e
 loopme.com,11446,RESELLER,6c8d5f95897a5a3b
+google.com, pub-2960293519697422, DIRECT, f08c47fec0942fa0
